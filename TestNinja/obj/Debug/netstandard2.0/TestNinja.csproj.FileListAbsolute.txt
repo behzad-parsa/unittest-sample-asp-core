@@ -1,0 +1,10 @@
+D:\Programming\Projects\C#\MyProj\Unit Test\TestNinja\TestNinja\bin\Debug\netstandard2.0\TestNinja.deps.json
+D:\Programming\Projects\C#\MyProj\Unit Test\TestNinja\TestNinja\bin\Debug\netstandard2.0\TestNinja.dll
+D:\Programming\Projects\C#\MyProj\Unit Test\TestNinja\TestNinja\bin\Debug\netstandard2.0\TestNinja.pdb
+D:\Programming\Projects\C#\MyProj\Unit Test\TestNinja\TestNinja\obj\Debug\netstandard2.0\TestNinja.csproj.AssemblyReference.cache
+D:\Programming\Projects\C#\MyProj\Unit Test\TestNinja\TestNinja\obj\Debug\netstandard2.0\TestNinja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\C#\MyProj\Unit Test\TestNinja\TestNinja\obj\Debug\netstandard2.0\TestNinja.AssemblyInfoInputs.cache
+D:\Programming\Projects\C#\MyProj\Unit Test\TestNinja\TestNinja\obj\Debug\netstandard2.0\TestNinja.AssemblyInfo.cs
+D:\Programming\Projects\C#\MyProj\Unit Test\TestNinja\TestNinja\obj\Debug\netstandard2.0\TestNinja.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\C#\MyProj\Unit Test\TestNinja\TestNinja\obj\Debug\netstandard2.0\TestNinja.dll
+D:\Programming\Projects\C#\MyProj\Unit Test\TestNinja\TestNinja\obj\Debug\netstandard2.0\TestNinja.pdb
