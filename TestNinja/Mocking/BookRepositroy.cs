@@ -20,6 +20,5 @@ namespace TestNinja.Mocking
             return bookings ?? null;
         }
 
-
     }
 }
