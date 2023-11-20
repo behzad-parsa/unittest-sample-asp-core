@@ -23,13 +23,13 @@ namespace TestNinja.Mocking
             this.sendService = sendService;
             this.xtraMessageBox = xtraMessageBox;
         }
-        public bool SendStatementEmails(DateTime statementDate)
+        public void SendStatementEmails(DateTime statementDate)
         {
             var housekeepers = housekeeperRepository.GetAll();
 
             foreach (var housekeeper in housekeepers)
             {
-                if (housekeeper.Email == null)
+                if (string.IsNullOrWhiteSpace(housekeeper.Email))
                     continue;
 
                 var statementFilename = statementGenerator.SaveStatement(housekeeper.Oid, housekeeper.FullName, statementDate);
@@ -50,9 +50,7 @@ namespace TestNinja.Mocking
                     xtraMessageBox.Show(e.Message, string.Format("Email failure: {0}", emailAddress),
                         MessageBoxButtons.OK);
                 }
-            }
-
-            return true;
+             }
         }
     }
 
